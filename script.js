@@ -1,2 +1,3 @@
 console.log("Puslapis užkrautas sėkmingai!");
-// Čia gali pridėti papildomą kodą, kad puslapis būtų interaktyvus
+
+// Galima pridėti interaktyvių efektų, jei reikės, pavyzdžiui, animacijų arba kitų funkcijų
